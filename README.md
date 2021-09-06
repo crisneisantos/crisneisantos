@@ -1,6 +1,6 @@
-Olá Mundo!<br>
-- Atualmente cursando Análise e Desenvolvimento de Sistemas<br>
-- Faculdade de Educação Tecnológica do Estado do Rio de Janeiro<br>
+## Olá Mundo!!
+ - Atualmente cursando Análise e Desenvolvimento de Sistemas<br>
+ - Faculdade de Educação Tecnológica do Estado do Rio de Janeiro<br>
  <div>
   <a href="https://github.com/crisneisantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crisneisantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
